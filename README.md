@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rahulhanje1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulhanje1" height="30" width="40" /></a>
+<a href="https://twitter.com/rahulhanje1" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1726590988~exp=1726591588~hmac=05917c81aad1f3bf834d19114f24881e8338a2f3595ad7686dd9710d742b4aae" alt="rahulhanje1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahul-hanje-b31812252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-hanje-b31812252" height="30" width="40" /></a>
 <a href="https://instagram.com/rahulhanje07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahulhanje07" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rahul7676" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahul7676" height="30" width="40" /></a>
