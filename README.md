@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Web3**
 
-- 💬 Ask me about **Development,Coding**
-
 - 📫 How to reach me **rahulhanje0.7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -24,7 +22,7 @@
 
 <h3>Languages</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin-right: 3px;">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="margin-right: 3px;">
@@ -53,8 +51,8 @@
 <h3>Frameworks and Tools</h3>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 3px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
+    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <&nbsp;/a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin-right: 3px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   </a>
