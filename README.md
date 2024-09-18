@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web3**
 
-- 📫 How to reach me **rahulhanje0.7@gmail.com**
+- 📫 Reach me @**rahulhanje0.7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
