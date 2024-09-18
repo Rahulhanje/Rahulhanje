@@ -8,11 +8,12 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=435&lines=+I'm+always+exploring+new+technologies;currently+contributing+to+open-source+projects+and+expanding+my+expertise+in+full-stack+development" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on [LinkNest](https://github.com/Rahulhanje/LinkNest.git)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=435&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+LinkNest" alt="Typing SVG" /></a>
 
-- 🌱 I’m currently learning **Web3**
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=435&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Web3+Next" alt="Typing SVG" /></a>
 - 📫 Reach me @**rahulhanje0.7@gmail.com**
+
+⚡I write code, and it works... sometimes! 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
