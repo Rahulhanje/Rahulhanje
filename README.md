@@ -10,7 +10,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=435&lines=Rahul++Hanje;I+am+Full-Stack+developer+and+coder" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=435&lines=+I'm+always+exploring+new+technologies;currently+contributing+to+open-source+projects+and+expanding+my+expertise+in+full-stack+development" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=435&lines=+I'm+always+exploring+new+technologies;currently+contributing+to+open-source" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=435&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+LinkNest" alt="Typing SVG" /></a>
 
