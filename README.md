@@ -6,15 +6,26 @@
 <h1 align="center">Hi👋 I'm Rahul Hanje</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulhanje&label=Profile%20views&color=0e75b6&style=flat" alt="rahulhanje" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=rahulhanje&label=Profile%20views&color=0e75b6&style=flat" alt="rahulhanje" /> 
+</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=435&lines=Rahul++Hanje;I+am+Full-Stack+developer+and+coder" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=600&lines=Rahul++Hanje;I+am+Full-Stack+developer+and+coder" alt="Typing SVG" />
+</a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=435&lines=+I'm+always+exploring+new+technologies;currently+contributing+to+open-source" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=600&lines=+I'm+always+exploring+new+technologies;currently+contributing+to+open-source" alt="Typing SVG" />
+</a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=435&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+LinkNest" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=600&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+Paytm+Project" alt="Typing SVG" />
+</a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=435&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Web3+Next" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=600&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Web3+Next.js" alt="Typing SVG" />
+</a>
+
 - 📫 Reach me @**rahulhanje0.7@gmail.com**
 
 ⚡I write code, and it works... sometimes! 😄
