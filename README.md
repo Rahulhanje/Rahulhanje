@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=600&lines=+I'm+always+exploring+new+technologies;currently+contributing+to+open-source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=600&lines=+I'm+always+exploring+new+technologies;" alt="Typing SVG" />
 </a>
 
 <!--<a href="https://git.io/typing-svg">
