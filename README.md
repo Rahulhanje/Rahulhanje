@@ -24,7 +24,7 @@
 -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=600&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Web3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=900&color=0E9CF7&width=600&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+ML+Devops" alt="Typing SVG" />
 </a>
 
 - 📫 Reach me @**rahulhanje0.7@gmail.com**
