@@ -31,27 +31,34 @@
 class Developer {
   name: string = "Rahul Hanje";
   location: string = "India 🇮🇳";
-  title: string = "Full-Stack Developer";
-  
+  title: string = "Full-Stack & Web3 Developer";
+
   skills: {
-    languages: string[] = ["JavaScript", "TypeScript", "Python", "Java", "C++", "Solidity"];
-    frontend: string[] = ["React", "HTML5", "CSS3", "Tailwind"];
-    backend: string[] = ["Node.js", "Express", "Hono"];
-    databases: string[] = ["MongoDB", "PostgreSQL", "MySQL"];
-    blockchain: string[] = ["Solidity", "Hardhat"];
-    tools: string[] = ["Docker", "Postman", "Git"];
+    languages: string[] = ["C", "JavaScript", "TypeScript", "C++", "Solidity", "SQL", "Python"];
+    frontend: string[] = ["React.js", "Next.js", "Tailwind CSS", "HTML5", "CSS3"];
+    backend: string[] = ["Node.js", "Express.js", "Firebase", "Hono"];
+    databases: string[] = ["MongoDB", "PostgreSQL", "MySQL", "Supabase"];
+    blockchain: string[] = ["Solidity", "Hardhat", "Ether.js", "Solana (WIP)"];
+    tools: string[] = ["Docker", "Git", "Postman", "VS Code"];
   };
-  
-  currentlyLearning: string = "Advanced System Design & Microservices";
-  motto: string = "Code is Poetry, Bugs are Just Unexpected Features! 🐛✨";
-  
+
+  currentlyLearning: string = "Scaling DApps & Websites &  DSA";
+  motto: string = "Building bugs into features since 2022 🐞✨";
+  funFact: string = "Can debug code at 3 AM but can't debug life decisions 😅";
+  sideQuest: string = "Silently crushing on a girl who makes Instagram reels 😳📱";
+
   getContact(): string {
     return "rahulhanje0.7@gmail.com";
+  }
+
+  getGithub(): string {
+    return "https://github.com/Rahulhanje";
   }
 }
 
 const rahul = new Developer();
-console.log(rahul.motto); // Always optimistic! 😄
+console.log(rahul.motto); // Productivity: 100%. Sanity: 404 Not Found. 😂
+
 ```
 
 </div>
@@ -108,7 +115,7 @@ console.log(rahul.motto); // Always optimistic! 😄
   <a href="https://linkedin.com/in/rahul-hanje-b31812252">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
-  <a href="https://twitter.com/rahulhanje1">
+  <a href="https://twitter.com/rahulhanje_">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
   </a>
   <a href="https://instagram.com/rahulhanje07">
@@ -192,14 +199,6 @@ console.log(rahul.motto); // Always optimistic! 😄
 
 </div>
 
-<!-- Quote Section -->
-<div align="center">
-
-### 💭 **Daily Inspiration**
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The+best+time+to+plant+a+tree+was+20+years+ago.+The+second+best+time+is+now.&author=Chinese+Proverb" />
-
-</div>
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -214,13 +213,14 @@ console.log(rahul.motto); // Always optimistic! 😄
 
 ```javascript
 const currentMission = {
-  status: "Coding like there's no tomorrow! 🚀",
-  reality: "Debugging like there's no today! 🐛",
-  mood: "Caffeinated and ready to conquer the world ☕",
-  nextGoal: "World domination through clean code 😎"
+  status: "Typing semi-colons like they pay rent 😤;",
+  reality: "Staring at the same bug for 3 hours — it's a feature now 🐞💥",
+  mood: "Fueled by caffeine, chaos, and compiler errors ☕🔥",
+  nextGoal: "Achieve immortality by writing code no one can ever understand 😎👨‍💻"
 };
 
-console.log("Error 404: Social life not found 😂");
+console.log("Error 404: Social life permanently deleted 💀😂");
+
 ```
 
 </div>
@@ -234,11 +234,6 @@ console.log("Error 404: Social life not found 😂");
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> **Detailed Analytics**
 
 <br>
-
-<!-- WakaTime Stats -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rahulhanje&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" alt="WakaTime Stats"/>
-
-<br><br>
 
 <!-- GitHub Metrics Alternative -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulhanje&theme=tokyonight" alt="Profile Summary"/>
@@ -258,7 +253,7 @@ console.log("Error 404: Social life not found 😂");
 </div>
 
 <!-- Support Section -->
-<div align="center">
+<!--<div align="center">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **Support My Journey**
 
@@ -273,13 +268,7 @@ console.log("Error 404: Social life not found 😂");
 
 **If my code brings a smile to your face, consider buying me a coffee! ☕**
 
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOoc/giphy.gif" width="50"> **Contribution Snake**
-
+</div> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rahulhanje/rahulhanje/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/rahulhanje/rahulhanje/blob/output/github-contribution-grid-snake.svg">
