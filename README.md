@@ -219,7 +219,7 @@ const currentMission = {
   nextGoal: "Achieve immortality by writing code no one can ever understand 😎👨‍💻"
 };
 
-console.log("Error 404: Social life permanently deleted 💀😂");
+console.log("Error 404: Social life Not Found 💀😂");
 
 ```
 
