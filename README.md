@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Original Animated Header GIF -->
-<img src="https://camo.githubusercontent.com/4fd007a9db2f46b92856dbba073aea1b9e0b927473eb566a2a8d5ccb5d819b0f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966" alt="Header Animation" width="100%" height="400px" style="border-radius: 15px;">
+<img src="https://github.com/Rahulhanje/Rahulhanje/blob/main/rahul_coding.gif" alt="Header Animation" width="100%" height="400px" style="border-radius: 15px;">
 
 <!-- Animated Header with Name -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rahul%20Hanje&fontSize=80&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Code%20Architect%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=center&animation=twinkling"/>
